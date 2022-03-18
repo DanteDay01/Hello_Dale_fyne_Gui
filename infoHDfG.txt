@@ -8,3 +8,9 @@ GOPATH=/home/dalem/go #gosetup
 /home/dalem/sdk/go1.17.4/bin/go build -o /tmp/GoLand/___go_build_Hey_Dale_Fyne_GUI_GO /home/dalem/workspace/Hello_Dale_fyne_Gui/Hey_Dale_Fyne_GUI.GO #gosetup
 main module (main) does not contain package main/Hey_Dale_Fyne_GUI.GO
 Compilation finished with exit code 1
+
+
+Fri 18 Mar 22 6:06 AM CDT
+vsCode failing Run or Run with Debug
+vscode debug console go build "-gcflags" flag provided but not defined "-l" error
+I'm having lots of problems running vsCode. Perhaps I should lean on Dante's experience?
